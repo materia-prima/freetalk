@@ -1,5 +1,5 @@
 {
-  description = "PrimaMateria blog";
+  description = "freetalk";
   inputs = {
     flake-utils.url = "github:numtide/flake-utils";
   };
